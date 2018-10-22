@@ -1,21 +1,23 @@
-# Your Name
+# Siphiwe Khoza
 
 ### Academics
 
-Your School
+Wits University
 
 ### Interests
 
-- Some Things You Like
+-  Video games
 
 ### Development
 
-- Inventor of the My Pillow
+- Inventor of the Coffeeshop website CoffeRonna
 
 ### Projects
 
-- [My Project](GitHub Link) Short Description
+- [Github Search App](https://gitsearchy.netlify.com/)
+A personally developed  project which uses  the github api to search for  github  accounts and repositories
+
 
 ### Profile Link
 
-[Your Name](GitHub Link)
+[Siphiwe Khoza](https://github.com/Qamar30)
